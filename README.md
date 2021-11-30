@@ -9,4 +9,4 @@ distance (in miles) that needs to be travelled to go from one to the other. To c
 creating a new railway line that connects all stations in stationSet, so to use the least amount (in miles) of train tracks overall; then return the ordered list of station names from one end of the line to the other. No branching of the line is allowed.
 
 #### Constraints
-For this coursework, you are expected to implement your own algorithms and data structures. You are NOT allowed to use (import) python libraries, with the exception of csv (to read csv files), math (to compute Euclidean distances from pairs of latitude/longitude coordinates) and timeit (to experimentally measure the computational cost of your solution, as explained below). If in doubt about what you can and cannot use, ask in Moodle “Ask a question” forum.
+For this coursework, you are expected to implement your own algorithms and data structures. You are NOT allowed to use (import) python libraries, with the exception of csv (to read csv files), math (to compute Euclidean distances from pairs of latitude/longitude coordinates) and timeit (to experimentally measure the computational cost of your solution).
