@@ -1,5 +1,7 @@
 # London Undergrouund Graphs And Algorithms
 
+To see my work, look at the LondonRailwayNetwork.ipynb file.
+
 #### Task
 Your task is to design and implement data structures and algorithms to efficiently support the following API:
 - loadStationsAndLines(): reads the provided files londonstations.csv and londonrailwaylines.csv, and initialises appropriate data structures to represent both stations and railway lines information;
